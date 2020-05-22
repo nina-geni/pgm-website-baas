@@ -1,0 +1,138 @@
+[
+    {
+        "image": "/images/medewerkers/LukBouters.png",
+        "firstname": "Luk",
+        "lastname": "Bouters",
+        "functie": "Opleidingsdirecteur",
+        "extraFunctie": "",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/PieterVandaele.png",
+        "firstname": "Pieter",
+        "lastname": "Vandaele",
+        "functie": "Opleidingscoördinator",
+        "extraFunctie": "",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/MaaikeCallens.png",
+        "firstname": "Maaike",
+        "lastname": "Callens",
+        "functie": "Verantwoordelijke opleiding",
+        "extraFunctie": "Trajectbeheer",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/GudrunHerman.png",
+        "firstname": "Gudrun",
+        "lastname": "Herman",
+        "functie": "STUVO- en Ombudsmedewerker",
+        "extraFunctie": "",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/IngeDeCank.png",
+        "firstname": "Inge",
+        "lastname": "De Canck",
+        "functie": "Verantwoordelijke werkplekleren",
+        "extraFunctie": "Leercoach",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/IngeSintobin.png",
+        "firstname": "Inge",
+        "lastname": "Sintobin",
+        "functie": "Leercoach",
+        "extraFunctie": "",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/LindaBogaert.png",
+        "firstname": "Linda",
+        "lastname": "Bogaert",
+        "functie": "Leercoach",
+        "extraFunctie": "",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/KatrienVandermarcke.png",
+        "firstname": "Katrien",
+        "lastname": "Vandermarcke",
+        "functie": "Leercoach",
+        "extraFunctie": "Diversiteitscoach",
+        "docent": false,
+        "vak": []
+    },
+    {
+        "image": "/images/medewerkers/EvelienRutsaert.png",
+        "firstname": "Evelien",
+        "lastname": "Rutsaert",
+        "functie": "",
+        "extraFunctie":"",
+        "docent": true,
+        "vak": ["Web Design"]
+    },
+    {
+        "image": "/images/medewerkers/FrederickRoegiers.png",
+        "firstname": "Frederik",
+        "lastname": "Roegiers",
+        "functie": "",
+        "extraFunctie":"",
+        "docent": true,
+        "vak":["Web Programming 2: Front-End (Intermediate)"]
+    },
+    {
+        "image": "/images/medewerkers/DieterDeWeirdt.png",
+        "firstname": "Dieter",
+        "lastname": "De Weirdt",
+        "functie": "",
+        "extraFunctie":"",
+        "docent": true,
+        "vak": ["UI/UX Prototyping 1"]
+    },
+    {
+        "image": "/images/medewerkers/OlivierParent.png",
+        "firstname": "Olivier",
+        "lastname": "Parent",
+        "functie": "Verantwoordelijke curriculum",
+        "extraFunctie": "",
+        "docent": true,
+        "vak": ["Applied Information Technology 1", "UI/UX Prototype 2"]
+    },
+    {
+        "image": "/images/medewerkers/PhilippeDepauw.png",
+        "firstname": "Philippe",
+        "lastname": "De Pauw - Waterschoot",
+        "functie": "Verantwoordelijke werkplekleren",
+        "extraFunctie": "",
+        "docent": true,
+        "vak": ["Web Programming 1: Front-End (Basic)", "@Work 1: Front-End Development", "Web Programming 3: Front-End (Advanced)", "@Work 2: Web App Development"]
+    },
+    {
+        "image": "/images/medewerkers/LennartDubois.png",
+        "firstname": "Lennart",
+        "lastname": "Dubois",
+        "functie": "",
+        "extraFunctie":"",
+        "docent": true,
+        "vak": ["Business & Communication for IT", "@Work 2: Web App Development"]
+    },
+    {
+        "image": "/images/medewerkers/ClaireGeeraerts.png",
+        "firstname": "Claire",
+        "lastname": "Geeraerts",
+        "functie": "",
+        "extraFunctie":"",
+        "docent": true,
+        "vak": ["Business & Communication for IT"]
+    }
+
+]
