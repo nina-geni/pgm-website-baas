@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "image": "/images/medewerkers/LukBouters.png",
         "firstname": "Luk",
         "lastname": "Bouters",
@@ -9,6 +10,7 @@
         "vak": []
     },
     {
+        "id": 2,
         "image": "/images/medewerkers/PieterVandaele.png",
         "firstname": "Pieter",
         "lastname": "Vandaele",
@@ -18,6 +20,7 @@
         "vak": []
     },
     {
+        "id": 3,
         "image": "/images/medewerkers/MaaikeCallens.png",
         "firstname": "Maaike",
         "lastname": "Callens",
@@ -27,6 +30,7 @@
         "vak": []
     },
     {
+        "id": 4,
         "image": "/images/medewerkers/GudrunHerman.png",
         "firstname": "Gudrun",
         "lastname": "Herman",
@@ -36,6 +40,7 @@
         "vak": []
     },
     {
+        "id": 5,
         "image": "/images/medewerkers/IngeDeCank.png",
         "firstname": "Inge",
         "lastname": "De Canck",
@@ -45,6 +50,7 @@
         "vak": []
     },
     {
+        "id": 6,
         "image": "/images/medewerkers/IngeSintobin.png",
         "firstname": "Inge",
         "lastname": "Sintobin",
@@ -54,6 +60,7 @@
         "vak": []
     },
     {
+        "id": 7,
         "image": "/images/medewerkers/LindaBogaert.png",
         "firstname": "Linda",
         "lastname": "Bogaert",
@@ -63,6 +70,7 @@
         "vak": []
     },
     {
+        "id": 8,
         "image": "/images/medewerkers/KatrienVandermarcke.png",
         "firstname": "Katrien",
         "lastname": "Vandermarcke",
@@ -72,6 +80,7 @@
         "vak": []
     },
     {
+        "id": 9,
         "image": "/images/medewerkers/EvelienRutsaert.png",
         "firstname": "Evelien",
         "lastname": "Rutsaert",
@@ -81,6 +90,7 @@
         "vak": ["Web Design"]
     },
     {
+        "id": 10,
         "image": "/images/medewerkers/FrederickRoegiers.png",
         "firstname": "Frederik",
         "lastname": "Roegiers",
@@ -90,6 +100,7 @@
         "vak":["Web Programming 2: Front-End (Intermediate)"]
     },
     {
+        "id": 11,
         "image": "/images/medewerkers/DieterDeWeirdt.png",
         "firstname": "Dieter",
         "lastname": "De Weirdt",
@@ -99,6 +110,7 @@
         "vak": ["UI/UX Prototyping 1"]
     },
     {
+        "id": 12,
         "image": "/images/medewerkers/OlivierParent.png",
         "firstname": "Olivier",
         "lastname": "Parent",
@@ -108,6 +120,7 @@
         "vak": ["Applied Information Technology 1", "UI/UX Prototype 2"]
     },
     {
+        "id": 13,
         "image": "/images/medewerkers/PhilippeDepauw.png",
         "firstname": "Philippe",
         "lastname": "De Pauw - Waterschoot",
@@ -117,6 +130,7 @@
         "vak": ["Web Programming 1: Front-End (Basic)", "@Work 1: Front-End Development", "Web Programming 3: Front-End (Advanced)", "@Work 2: Web App Development"]
     },
     {
+        "id": 14,
         "image": "/images/medewerkers/LennartDubois.png",
         "firstname": "Lennart",
         "lastname": "Dubois",
@@ -126,6 +140,7 @@
         "vak": ["Business & Communication for IT", "@Work 2: Web App Development"]
     },
     {
+        "id": 15,
         "image": "/images/medewerkers/ClaireGeeraerts.png",
         "firstname": "Claire",
         "lastname": "Geeraerts",
