@@ -7,7 +7,8 @@
         "functie": "Opleidingsdirecteur",
         "extraFunctie": "",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "functie": "Opleidingscoördinator",
         "extraFunctie": "",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "functie": "Verantwoordelijke opleiding",
         "extraFunctie": "Trajectbeheer",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": true
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "functie": "STUVO- en Ombudsmedewerker",
         "extraFunctie": "",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "functie": "Verantwoordelijke werkplekleren",
         "extraFunctie": "Leercoach",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": true
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "functie": "Leercoach",
         "extraFunctie": "",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "functie": "Leercoach",
         "extraFunctie": "",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "functie": "Leercoach",
         "extraFunctie": "Diversiteitscoach",
         "docent": false,
-        "vak": []
+        "vak": [],
+        "importantContact": false
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "functie": "",
         "extraFunctie":"",
         "docent": true,
-        "vak": ["Web Design"]
+        "vak": ["Web Design"],
+        "importantContact": false
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "functie": "",
         "extraFunctie":"",
         "docent": true,
-        "vak":["Web Programming 2: Front-End (Intermediate)"]
+        "vak":["Web Programming 2: Front-End (Intermediate)"],
+        "importantContact": false
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "functie": "",
         "extraFunctie":"",
         "docent": true,
-        "vak": ["UI/UX Prototyping 1"]
+        "vak": ["UI/UX Prototyping 1"],
+        "importantContact": false
     },
     {
         "id": 12,
@@ -117,7 +128,8 @@
         "functie": "Verantwoordelijke curriculum",
         "extraFunctie": "",
         "docent": true,
-        "vak": ["Applied Information Technology 1", "UI/UX Prototype 2"]
+        "vak": ["Applied Information Technology 1", "UI/UX Prototype 2"],
+        "importantContact": true
     },
     {
         "id": 13,
@@ -127,7 +139,8 @@
         "functie": "Verantwoordelijke werkplekleren",
         "extraFunctie": "",
         "docent": true,
-        "vak": ["Web Programming 1: Front-End (Basic)", "@Work 1: Front-End Development", "Web Programming 3: Front-End (Advanced)", "@Work 2: Web App Development"]
+        "vak": ["Web Programming 1: Front-End (Basic)", "@Work 1: Front-End Development", "Web Programming 3: Front-End (Advanced)", "@Work 2: Web App Development"],
+        "importantContact": true
     },
     {
         "id": 14,
@@ -137,7 +150,8 @@
         "functie": "",
         "extraFunctie":"",
         "docent": true,
-        "vak": ["Business & Communication for IT", "@Work 2: Web App Development"]
+        "vak": ["Business & Communication for IT", "@Work 2: Web App Development"],
+        "importantContact": false
     },
     {
         "id": 15,
@@ -147,7 +161,8 @@
         "functie": "",
         "extraFunctie":"",
         "docent": true,
-        "vak": ["Business & Communication for IT"]
+        "vak": ["Business & Communication for IT"],
+        "importantContact": false
     }
 
 ]
