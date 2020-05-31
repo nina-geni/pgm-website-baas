@@ -6,11 +6,15 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina"],
         "Omschrijving": "<p>Het gaat goed met de organisatie ' The Bad Magnetos', daarom zijn ze op zoek naar nieuwe 'super evil influence'. Schrijf een digitale HTML-vacature uit voor een een nieuwe werkkracht. Maak met de aangeleerde HTML-tags uit deze eerste les een vacature op voor een evil villian van je voorkeur. Gebruik Visual Studio Code om het HTML-bestand aan te maken, met de naam index.html",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/SVW/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/SVW/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/SVW/pic2.png",
+                "type": "png"
             }
         ]
     },   
@@ -21,11 +25,15 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina"],
         "Omschrijving": "Namaken website Arne Quinze. Items worden dynamisch ingeladen. Men moet ook kunnen filteren",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/AQ/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/AQ/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/AQ/pic2.png",
+                "type": "png"
             }
         ]
     },
@@ -36,11 +44,15 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina", "De Maerteleire Thibaut"],
         "Omschrijving": "Namaken website Matthias Talloen. Items worden dynamisch ingeladen. Er wordt gewerkt met mapbox. Men moet ook kunnen filteren",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/MT/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/MT/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/MT/pic2.png",
+                "type": "png"
             }
         ]
     },
@@ -51,11 +63,23 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina"],
         "Omschrijving": "Namaken website Establis. Fetchen van API en werken met JSON.",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/Establis/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/Establis/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/Establis/pic2.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/Establis/pic3.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/Establis/pic4.png",
+                "type": "png"
             }
         ]
     },
@@ -66,11 +90,15 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina"],
         "Omschrijving": "Voor deze opdrachten ontwerpen jullie een One Page Website voor een (favoriete) film of serie. Probeer aan de hand van storytelling de interesse op te wekken bij de bezoeker om naar de film/serie te kijken. In deze website moeten verplicht 4 gedetoureerde  afbeeldingen aanwezig zijn. Alsook 2 zelfgemaakte vector afbeelding. Je ontwerp de website eerst in Adobe Xd. Daarna werk je die uit in HTML / CSS. Als uitbereiding voeg je een parallax effect toe. Dit kan op basis van de de cursor (bijvoorbeeld meerdere achtergrond afbeeldingen bewegen), of op basis van de scroll positie.",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/SW/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/SW/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/SW/pic2.png",
+                "type": "png"
             }
         ]
     },
@@ -81,7 +109,7 @@
         "jaar": "2019-2020",
         "student": ["Genitello Nina"],
         "Omschrijving": "Modelleer een autootje in 3D en importeer het model in een website.",
-        "thumbnail": "",
+        "thumbnail": "/images/cases/candylab/thumbnail.png",
         "pics": [
             {
                 "src": "/images/cases/candylab/genitello_nina_candylab.glb",
@@ -95,11 +123,15 @@
         "vak": "UIUXPRO2",
         "student": ["Genitello Nina"],
         "Omschrijving": "Nu we een concept en een ontwerp voor de app hebben, willen we die ook verder ontwikkelen. Hiervoor hebben we (onder andere) een website nodig waarmee we mensen kunnen overtuigen om te investeren in de app.",
-        "thumbnail" : "",
+        "thumbnail" : "/images/cases/crowdfundingwebsite/thumbnail.png",
         "pics": [
             {
-                "src": "",
-                "type": ""
+                "src": "/images/cases/crowdfundingwebsite/pic1.png",
+                "type": "png"
+            },
+            {
+                "src": "/images/cases/crowdfundingwebsite/pic2.png",
+                "type": "png"
             }
         ]
     }
