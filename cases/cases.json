@@ -112,7 +112,7 @@
         "thumbnail": "/images/cases/candylab/thumbnail.png",
         "pics": [
             {
-                "src": "/images/cases/candylab/car.glb",
+                "src": "/images/cases/candylab/car.gltf",
                 "type": "model"
             }
         ]
