@@ -112,7 +112,7 @@
         "thumbnail": "/images/cases/candylab/thumbnail.png",
         "pics": [
             {
-                "src": "/images/cases/candylab/genitello_nina_candylab.glb",
+                "src": "/images/cases/candylab/car.glb",
                 "type": "model"
             }
         ]
