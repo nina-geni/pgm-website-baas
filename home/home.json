@@ -1,11 +1,11 @@
 [
     {
-        "img": "images/home/home.jpg"
+        "img": "/images/home/home.jpg"
     },
     {
-        "img": "images/home/lokaal.jpg"
+        "img": "/images/home/lokaal.jpg"
     },
     {
-        "img": "images/home/opendeurdag.jpg"
+        "img": "/images/home/opendeurdag.jpg"
     }
 ]
